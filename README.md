@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
 - 🌱 I’m currently learning multi-threading and concurrency
-- 📫 How to reach me:<p align="center">
-  <a href="mailto:davidabest01@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/davidabest/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
-  </a>
-</p>
+
 
 

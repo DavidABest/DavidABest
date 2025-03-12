@@ -22,8 +22,10 @@ Here are some ideas to get you started:
   <a href="mailto:davidabest01@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/davidabest/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
   </a>
 </p>
+
 

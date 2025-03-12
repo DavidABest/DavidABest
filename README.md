@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
 - 🌱 I’m currently learning multi-threading and concurrency
-- 📫 How to reach me: [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/davidabest/) [![Gmail](https://cdn-icons-png.flaticon.com/512/281/281769.png)](mailto:davidabest01@gmail.com)
+- 📫 How to reach me:<p align="center">
+  <a href="mailto:davidabest01@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40">
+  </a>
+  <a href="https://www.linkedin.com/in/davidabest/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+  </a>
+</p>
+

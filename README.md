@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋🏽, I'm David
 
 <!--
 **DavidABest/DavidABest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
+- 🌱 I’m currently learning multi-threading and concurrency
+- 📫 How to reach me: [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/davidabest/) [![Gmail](https://cdn-icons-png.flaticon.com/512/281/281769.png)](mailto:davidabest01@gmail.com)

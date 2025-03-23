@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
 - 🌱 I’m currently learning Computer Architecture
 - 💬 Ask me about my five year plan :)
+

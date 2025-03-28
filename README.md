@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
-- 🌱 I’m currently learning Operating Systems 
+- 🌱 I’m currently learning Operating Systems and Security
 - 💬 Ask me about my five year plan :)
 

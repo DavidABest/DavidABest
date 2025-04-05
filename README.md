@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
 - 🌱 I’m currently learning Information Security
 - 💬 Ask me about my five year plan :)
-- 👯 I’m looking to collaborate on non-profit, pro-social software
+- 👯 I’m looking to collaborate on pro-social software
 
 

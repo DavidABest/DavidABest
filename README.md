@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Systems Thinking
 - 💬 Ask me about my five year plan :)
 - 👯 I’m looking to collaborate on pro-social software
-
--
+- 📫 How to reach me: https://www.linkedin.com/in/davidabest/
+- 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on passing my final year classes 📚📖👨‍💻
-- 🌱 I’m currently learning Systems Thinking
+- 🌱 I’m currently learning Software Design and Quality Assurance
 - 💬 Ask me about my five year plan :)
 - 👯 I’m looking to collaborate on pro-social software and development
 - 📫 How to reach me: https://www.linkedin.com/in/davidabest/

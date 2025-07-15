@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Front-End Development bonafides
 - 👯 I’m looking to collaborate on pro-social software and development
 - 📫 How to reach me: https://www.linkedin.com/in/davidabest/
-- 🤔 I’m looking for help with ... my first junior developer job 😂

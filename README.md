@@ -1,5 +1,3 @@
-## Hi 👋🏽, I'm David
-
 <!--
 **DavidABest/DavidABest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+## Hi, I’m David 👋🏽
 
-- 🔭 I’m currently working on Front-End Development bonafides
-- 👯 I’m looking to collaborate on pro-social software and development
+Computer Science graduate with a strong foundation in software development, algorithms, and systems. Currently preparing for graduate study in Computer Science (OMSCS) and building projects focused on backend and full-stack software development.
+
+- 🔭 Currently working on personal software projects and sharpening core CS fundamentals
+- 🌱 Applying core CS concepts such as data structures, algorithms, databases, and systems programming in practical projects
+- 👯 Open to collaborating on small, well-scoped software projects
 - 📫 How to reach me: https://www.linkedin.com/in/davidabest/

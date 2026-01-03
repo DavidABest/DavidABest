@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I’m David 👋🏽
 
-Computer Science graduate with a strong foundation in software development, algorithms, and systems. Currently preparing for graduate study in Computer Science (OMSCS) and building projects focused on backend and full-stack software development.
+Software engineer with a CS background, focused on backend and full-stack development. Building and shipping practical projects that apply core computer science concepts across data structures, algorithms, databases, and systems. Currently enrolled in Georgia Tech’s OMSCS while working on production-style software projects.
 
 - 🔭 Building backend and full-stack applications with an emphasis on reliability and clarity
 - 🌱 Applying core CS fundamentals (DSA, databases, operating systems concepts) in real projects

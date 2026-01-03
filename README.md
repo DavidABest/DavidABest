@@ -20,4 +20,4 @@ Computer Science graduate with a strong foundation in software development, algo
 - 🔭 Building backend and full-stack applications with an emphasis on reliability and clarity
 - 🌱 Applying core CS fundamentals (DSA, databases, operating systems concepts) in real projects
 - 👯 Open to collaborating on small, well-scoped engineering work
-- 📫 Reach me via GitHub
+- 📫 Reach me via GitHub (issues or discussions)

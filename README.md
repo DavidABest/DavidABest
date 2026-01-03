@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Computer Science graduate with a strong foundation in software development, algorithms, and systems. Currently preparing for graduate study in Computer Science (OMSCS) and building projects focused on backend and full-stack software development.
 
-- 🔭 Currently working on personal software projects and sharpening core CS fundamentals
-- 🌱 Applying core CS concepts such as data structures, algorithms, databases, and systems programming in practical projects
-- 👯 Open to collaborating on small, well-scoped software projects
-- 📫 How to reach me: https://www.linkedin.com/in/davidabest/
+- 🔭 Building backend and full-stack applications with an emphasis on reliability and clarity
+- 🌱 Applying core CS fundamentals (DSA, databases, operating systems concepts) in real projects
+- 👯 Open to collaborating on small, well-scoped engineering work
+- 📫 Reach me via GitHub

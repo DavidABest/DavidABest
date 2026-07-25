@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-## Hi, I’m David 👋🏽
+## Hi, I'm David 👋🏽
 
-Software engineer with a CS background, focused on backend and full-stack software development. Building and shipping practical projects that apply core computer science concepts across data structures, algorithms, databases, and systems. Currently enrolled in Georgia Tech’s OMSCS while working on production-style software projects.
+Graduate student in Georgia Tech's OMSCS program, Computing Systems specialization, graduating Spring 2028. Interested in systems and infrastructure, moving toward quantum computing.
 
-- 🔭 Building backend and full-stack applications with an emphasis on reliability and clarity
-- 🌱 Applying core CS fundamentals (DSA, databases, operating systems concepts) in real projects
-- 👯 Open to collaborating on small, well-scoped engineering work
-- 📫 Reach me via GitHub (issues or discussions)
+**Research**
+
+Lead editor on a six-author systematic literature review on security in edge computing systems, currently in revision toward journal submission. I run the editorial pass and coordinate the author group.
+
+**Coursework**
+
+Completed: CS 6200 (Operating Systems), CS 6250 (Networks), CS 8803 O24 (Intro to Research)
+
+Fall 2026: CS 6601 (AI), CS 7400 (Quantum Computing)
